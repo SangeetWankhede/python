@@ -1,0 +1,12 @@
+
+venv
+
+all projects same package
+
+A > Flask 2
+B Flask 3
+
+with venv
+
+python -m venv venv
+source venv/bin/activate
